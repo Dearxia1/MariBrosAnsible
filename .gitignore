@@ -1,0 +1,11 @@
+# Ansible temporary files
+*.retry
+
+# Inventory (Credentials)
+inventory/hosts.ini
+
+# MacOS files
+.DS_Store
+
+# Logs
+*.log
